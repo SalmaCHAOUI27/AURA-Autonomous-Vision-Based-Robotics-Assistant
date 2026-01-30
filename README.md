@@ -163,4 +163,3 @@ This project demonstrates:
 
 ## 📷 Demo
 
-*(Add images and videos of the robot in action here)*
