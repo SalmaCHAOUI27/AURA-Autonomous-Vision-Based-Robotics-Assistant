@@ -3,7 +3,7 @@
 # 🤖 AURA — Autonomous Vision-Based Robotics Assistant
 
 ## 📌 Overview
-
+ 
 **AURA** is an autonomous mobile robot designed to perceive its environment, make decisions, and move independently. The project integrates **robotics, embedded systems, and computer vision** using a modular and scalable architecture suitable for real-world applications.
 
 AURA combines real-time sensor data, visual perception, and control algorithms to perform autonomous navigation tasks such as line following and obstacle avoidance.
